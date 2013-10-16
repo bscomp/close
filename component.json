@@ -1,0 +1,9 @@
+{
+  "name": "close",
+  "repo": "bscomp/close",
+  "description": "component-bootstrap",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "styles": ["index.less"]
+}
